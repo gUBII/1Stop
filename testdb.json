@@ -1,0 +1,55 @@
+
+{
+    "products": [
+      {
+        "_id": 0,
+        "title": "Diamond Neckace",
+        "price": 125,
+        "image": "https://images.unsplash.com/photo-1588444968576-f8fe92ce56fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "options":[{
+          "optionTitle": "Colour",
+          "optionValues": ["Red", "Blue","Green"]
+        },
+        {
+          "optionTitle": "Size",
+          "optionValues": ["Small", "Medium","Large"]
+        }
+        ]
+      },
+      {
+        "_id": 1,
+        "title": "Topaz Ring",
+        "price": 450,
+        "img": "https://images.unsplash.com/photo-1611087388916-b6c97e01735b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=696&q=80",
+        "options":[{
+          "optionTitle": "Colour",
+          "optionValues": ["Red","Green"]
+        },
+        {
+          "optionTitle": "Size",
+          "optionValues": ["Small","Large"]
+        }
+        ]
+     
+        },
+        {
+          "_id": 2,
+          "title": "Silver Bracelet",
+          "price": 690,
+          "img": "https://images.unsplash.com/photo-1619119069152-a2b331eb392a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+          "options":[
+          {
+            "optionTitle": "Size",
+            "optionValues": ["Small", "Medium","Large"]
+          }
+          ]
+        },
+        {
+          "_id": 3,
+          "title": "Heart Necklace",
+          "price": 70,
+          "img": "https://images.unsplash.com/photo-1588444837495-c6cfeb53f32d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+       
+          }
+    ]
+}

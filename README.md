@@ -3,6 +3,7 @@
 ### Outline
 
 We have developed an e-commerce platform that may be utilised by businesses looking to sell good online. The website will be geared towards smaller businesses in niche   markets that want a straight forward way to handle payments and control their offereings.
+![Capture21](https://user-images.githubusercontent.com/34171259/206528363-30103f47-01b8-4ce1-887a-c3c70df2bc8c.PNG)
 
 ### Team Members
 
